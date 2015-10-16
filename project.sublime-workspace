@@ -1,0 +1,707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sanitize",
+				"sanitizedKey"
+			],
+			[
+				"sanitie",
+				"sanitizedValue"
+			],
+			[
+				"sanitizedV",
+				"sanitizedValues"
+			],
+			[
+				"denominat",
+				"denominatorUnit"
+			],
+			[
+				"sanitz",
+				"sanitizedValue"
+			],
+			[
+				"sanitized",
+				"sanitizedValue"
+			],
+			[
+				"sanitiz",
+				"sanitizedValue"
+			],
+			[
+				"sanit",
+				"sanitizedValue"
+			],
+			[
+				"atomicN",
+				"atomicNumber"
+			],
+			[
+				"atomi",
+				"atomicNumber"
+			],
+			[
+				"get",
+				"get	.get()"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 686.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"1 t",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 749.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Geoffrey/Documents/GitHub/blackjack-client"
+	],
+	"file_history":
+	[
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/util.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/searchAgents.py",
+		"/C/Users/Geoffrey/Documents/GitHub/blackjack-client/client.js",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/search.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/game.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/layout.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse331/cse331-15au/sections/section3Examples/section3/src/section3/PositiveInteger.java",
+		"/C/Users/Geoffrey/Google Drive/School/cse331/cse331-15au/sections/live-demos/section3/CheckRepDemo.java",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/project.sublime-project",
+		"/C/Users/Geoffrey/Google Drive/School/cse331/cse331-15au/hws/cse331/src/hw1/staff/grading/hw1rubric.txt",
+		"/C/Users/Geoffrey/Google Drive/School/cse331/cse331-15au/.gitignore",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/.gitignore",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/eightpuzzle.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/ghostAgents.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/cse473-search/layouts/bigSafeSearch.lay",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/proj1/pacman.py",
+		"/C/Users/Geoffrey/Documents/GitHub/g-liu.com/style.css",
+		"/C/Users/Geoffrey/Documents/GitHub/g-liu.com/index.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Geoffrey/Google Drive/School/new-resume-ideation/newstyle.css",
+		"/C/Users/Geoffrey/Documents/GitHub/resume/newstyle.css",
+		"/C/Users/Geoffrey/Google Drive/School/new-resume-ideation/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/resume/index.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Geoffrey/Google Drive/School/new-resume-ideation/style.css",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/abstraction-functions-and-rep-invariants.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/testing.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/docs.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/WorkingAtHome.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/versioncontrol.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/editing-compiling.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/eclipse_reference.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/specifications.html",
+		"/C/Users/Geoffrey/Google Drive/School/cse331/cse331-15au/administrivia/CSE_331_A_15au.txt",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/default-constants.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/streams.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/cache.php",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/proj0/tutorial/shop.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/proj0/python_basics/foreach.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/proj0/tutorial/addition.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/proj0/tutorial/buyLotsOfFruit.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse473/proj0/tutorial/shopSmart.py",
+		"/C/Users/Geoffrey/.ssh/id_rsa.pub",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/archive-story.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/wp-config 2.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/map.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/taxonomy.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/page_title.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/page 2.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/theme_functions.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/archive.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/misc.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/update.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/theme.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/plugin-install.php",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/get-element-data.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/005.json",
+		"/C/Users/Geoffrey/AppData/Roaming/.minecraft/launcher_profiles.json",
+		"/C/Users/Geoffrey/AppData/Roaming/.minecraft/versions/NodusLauncher/NodusLauncher.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/package.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/004.json",
+		"/C/Users/Geoffrey/AppData/Local/Temp/Temp1_genymotion-log.zip/general-genymotion.log",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/078.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/001.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/test/data-preprocessors-test.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/lib/data-preprocessors.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data-preprocessors.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/.gitignore",
+		"/C/Users/Public/Desktop/Google Chrome.lnk",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/014.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/114.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/118.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/034.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/012.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/002.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/086.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/017.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/project.sublime-project",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/077.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data/028.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/project.sublime-workspace",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/data.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/sample-10.xml",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/xmldata/properties_atomic.xml",
+		"/C/Users/Geoffrey/Documents/GitHub/resume/README.md",
+		"/C/Users/Geoffrey/Documents/GitHub/monopoly-manager/bower.json",
+		"/C/Users/Geoffrey/Documents/GitHub/monopoly-manager/app/views/title-card.html",
+		"/C/Users/Geoffrey/Documents/GitHub/monopoly-manager/.travis.yml",
+		"/C/Users/Geoffrey/Documents/GitHub/monopoly-manager/app/scripts/services/titlecards.js",
+		"/C/Users/Geoffrey/Documents/GitHub/monopoly-manager/project.sublime-project",
+		"/C/Users/Geoffrey/AppData/Roaming/.minecraft/logs/latest.log",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable-backend/sample-10.json",
+		"/C/Users/Geoffrey/Documents/1.json",
+		"/C/Users/Geoffrey/Documents/Yeah.xml",
+		"/C/Users/Geoffrey/Documents/Yeah.json",
+		"/C/Program Files (x86)/Audacity/help/manual/quick_help.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/app/views/main.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/app/views/templates/ptable.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/app/scripts/directives/ptable.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/Gruntfile.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/app/views/ptable.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/app/scripts/directives/ptable.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/app/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/app/404.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/project.sublime-project",
+		"/C/Users/Geoffrey/Documents/GitHub/ptable/.gitattributes",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/Gruntfile.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/scripts/directives/ptable.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/views/main.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/package.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/bower.json",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/scripts/controllers/main.js",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/scripts/directives/ptable.html",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/project.sublime-project",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/styles/main.css",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/favicon.ico",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/app/.htaccess",
+		"/C/Users/Geoffrey/Documents/GitHub/ng-periodic/.yo-rc.json"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\Users\\Geoffrey\\Google Drive\\School\\cse473\\cse473-search"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Priority",
+			"Queue",
+			"pathQueue.append",
+			"Directions",
+			".DS_",
+			"isGoalState",
+			"path",
+			"getSuccessors",
+			"Stack",
+			"getStartState",
+			"west",
+			"you are now a level",
+			"employ",
+			"Java",
+			"</b>",
+			"<b>",
+			"</i>",
+			"<i>",
+			"<file>",
+			"35",
+			"SSH on Windo",
+			"miami_page_title_underline",
+			"page_title",
+			"include",
+			"require",
+			"h1",
+			"miami_page_title_position",
+			"get_header",
+			"post_type",
+			"get_tax",
+			"$taxonomy",
+			"key",
+			"text_domain",
+			"#313437",
+			"slug",
+			"alt=",
+			"host-only",
+			"lattice",
+			"is set to",
+			"containing the u",
+			"is set to",
+			"latticeConst",
+			"latticeAngles",
+			"lattice angles",
+			"latticeConst",
+			"overflow",
+			"Isoto",
+			"value",
+			"isoto",
+			"nfpa",
+			"integerPre",
+			"integer pre",
+			"integerPre",
+			"floatWith",
+			"floatCsv",
+			"csvPre",
+			".label).to.deep.equal",
+			".toEqual(\"Discovery\")",
+			"NFPA Label",
+			"percen",
+			"floatWithUnit",
+			"defaultPre",
+			"conduc",
+			"floatWithU",
+			"temperature",
+			"null",
+			"temperature",
+			"density",
+			"var preprocFn",
+			"getPreprocessor",
+			"getPrepro",
+			"pressurePrep",
+			"temperat",
+			"csvPre",
+			"heatCap",
+			"split",
+			"split(",
+			"split",
+			"specific heat",
+			"console",
+			"integerPre",
+			"molarEn",
+			"energy",
+			"temperatu",
+			"pressure",
+			"temperature",
+			"density",
+			"isotopicAbu",
+			"isotopicAbun",
+			"percentPrep",
+			"$",
+			"nfpaLabelPre",
+			"group",
+			"pressurePre",
+			"floatPrepro",
+			"integerPrep",
+			"pressure",
+			"2.5",
+			"type: \"TITLE_DEED\"",
+			"script",
+			"newer:",
+			"watch:",
+			"docs:",
+			"watch:",
+			"connect:dist",
+			"connect",
+			"ngdocs",
+			"registerTask",
+			"docs",
+			"yeoman.docs",
+			"'docs'",
+			"useminPrepare",
+			"time-grunt",
+			"require",
+			"yeoman:",
+			"yeoman.dist",
+			"clean"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"</strong>",
+			"<strong>",
+			"</em>",
+			"<em>",
+			"&lt;file&gt;",
+			"miami",
+			"title=",
+			".label).to.equal",
+			".to.equal('Discovery')",
+			"var preprocRtn",
+			"callPreprocessor",
+			"type: cardTypes.TITLE_DEED",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 55.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 210.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"searcha",
+				"searchAgents.py"
+			],
+			[
+				"util",
+				"util.py"
+			],
+			[
+				"search",
+				"search.py"
+			],
+			[
+				"game",
+				"game.py"
+			],
+			[
+				"age",
+				"searchAgents.py"
+			],
+			[
+				"get-el",
+				"get-element-data.js"
+			],
+			[
+				"get-e",
+				"get-element-data.js"
+			],
+			[
+				"test",
+				"test\\data-preprocessors-test.js"
+			],
+			[
+				"078",
+				"data\\078.json"
+			],
+			[
+				"prepro",
+				"data-preprocessors.js"
+			],
+			[
+				"001",
+				"data\\001.json"
+			],
+			[
+				"114",
+				"data\\114.json"
+			],
+			[
+				"14",
+				"data\\014.json"
+			],
+			[
+				"118",
+				"data\\118.json"
+			],
+			[
+				"034",
+				"data\\034.json"
+			],
+			[
+				"002",
+				"data\\002.json"
+			],
+			[
+				"86",
+				"data\\086.json"
+			],
+			[
+				"118.",
+				"data\\118.json"
+			],
+			[
+				"12",
+				"data\\012.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"017.",
+				"data\\017.json"
+			],
+			[
+				"data-pre",
+				"data-preprocessors.js"
+			],
+			[
+				"aat",
+				"data-preprocessors.js"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"cardt",
+				"app\\scripts\\services\\cardtypes.js"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"app.j",
+				"app\\scripts\\app.js"
+			],
+			[
+				"title-c",
+				"app\\views\\title-card.html"
+			],
+			[
+				"titlec",
+				"app\\scripts\\directives\\titlecard.js"
+			],
+			[
+				"",
+				".travis.yml"
+			],
+			[
+				"cards",
+				"app\\scripts\\services\\titlecards.js"
+			],
+			[
+				"ptab",
+				"app\\views\\templates\\ptable.html"
+			],
+			[
+				"pta",
+				"app\\scripts\\directives\\ptable.js"
+			],
+			[
+				"gu",
+				"Gruntfile.js"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 418.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
